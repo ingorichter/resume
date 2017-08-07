@@ -39,12 +39,12 @@
       "website": "https://www.adobe.com",
       "startDate": "2015-07-01",
       "endDate": "Present",
-      "summary": "Working on Sparkler aka Project Comet aka Adobe Experience Design (XD). C++/C++/cxx/Objective-C/JavaScript",
+      "summary": "Working on Sparkler aka Project Comet aka Adobe Experience Design (XD). C/C++/cxx/Objective-C/JavaScript",
       "highlights": [
         "Build initial device preview feature for iOS",
         "Contributed to On-Boarding web-app written in reactjs",
-        "Build On-Boarding features for OSX and Windows UWP",
-        "Support the DevOps team to build a reliable CI/CD solution"
+        "Create On-Boarding features for OSX and Windows UWP",
+        "Support the DevOps team to develop a reliable CI/CD solution"
       ]
     },
     {
