@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ingo Richter",
-    "label": "Sr. Software Engineer/Automation Geek",
+    "label": "Sr. Software Engineer/Automation Expert",
     "picture": "https://s.gravatar.com/avatar/f50859dd9e9144590094ba3579a1d4ff?s=80",
     "email": "ingo.richter@gmail.com",
     "phone": "424-261-5271",
@@ -53,7 +53,7 @@
       "website": "https://www.adobe.com",
       "startDate": "2015-02-01",
       "endDate": "2015-06-30",
-      "summary": "Developed Adobe Device Preview with a small dedicated team. Adobe Device Preview consist of an iOS companion app and an extension for Photoshop",
+      "summary": "Developed Adobe Device Preview with a small dedicated team. Adobe Device Preview consists of an iOS companion app and an extension for Photoshop",
       "highlights": [
         "Worked on the Photoshop iOS device communication. Reverse engineered the protocol used by Apple to communicate with iOS devices via USB. Implemented the protocol in Node.js",
         "Developed the Photoshop plugin to enable iOS device communication",
@@ -66,11 +66,11 @@
       "website": "https://www.adobe.com",
       "startDate": "2013-03-01",
       "endDate": "2015-01-31",
-      "summary": "Working with a small agile team to create tools for modern web development",
+      "summary": "Working with a small, agile team to create tools for modern web development",
       "highlights": [
         "Implemented various features for Adobe Edge Code (Login for Adobe customer)",
         "Helped to improve Adobe Brackets (code linting, Linux version, Extension Registry)",
-        "Automated the build process for Brackets and Edge Code on OSX, Windows and Linux"
+        "Automated the build process for Brackets and Edge Code on OSX, Windows, and Linux"
       ]
     },
     {
@@ -93,7 +93,7 @@
       "summary": "Worked on the Flex Production Engineering Team",
       "highlights": [
         "Working on internal tools to support the Engineering and Testing workflows",
-        "Focus on automating everything along the production process, this includes build systems, test systems and the release process"
+        "Focus on automating everything along the production process; this includes build systems, test systems and the release process"
       ]
     },
     {
@@ -102,7 +102,7 @@
       "website": "https://www.adobe.com",
       "startDate": "2010-08-01",
       "endDate": "2011-04-30",
-      "summary": "Sharing my experiences with a new product team at Adobe. I took on a different role to support delivering high quality software",
+      "summary": "Sharing my experiences with a new product team at Adobe. I took on a different role to support delivering high-quality software",
       "highlights": [
         "Helped to automate the whole build and release process using different internal and external tools"
       ]
@@ -132,10 +132,10 @@
         "Led the IPv6 transition of VersionCue Server",
         "Introduced MDA to the team. In this context retrofitted the existing SOAP layer to be automatically generated from our existing UML model",
         "Conducted technical evaluation to integrate Adobe Bridge in the Version Cue Server for thumbnail creation and XMP manipulation",
-        "Implemented a replacement for the existing user management feature in Version Cue administration web-application with Adobe Flex Framework",
+        "Implemented a replacement for the current user management feature in Version Cue administration web-application with Adobe Flex Framework",
         "Implemented LDAP functionality for Version Cue Server",
         "Implemented SSL functionality for Version Cue Server",
-        "Developed tool to generate release notes for a specific build from the Perforce changelist comments"
+        "Developed tool to generate release notes for a particular build from the Perforce change list comments"
       ]
     },
     {
@@ -144,12 +144,12 @@
       "website": "https://www.adobe.de",
       "startDate": "1999-01-01",
       "endDate": "2003-12-31",
-      "summary": "Contributed to the Web Publishing System, GoLive Web Workgroup Server and Version Cue Server",
+      "summary": "Contributed to the Web Publishing System, GoLive Web Workgroup Server, and Version Cue Server",
       "highlights": [
         "Created and maintained automatic build system based on CruiseControl",
         "Implemented the backup feature for Version Cue Server",
         "Created Perl based testing framework to use for regression testing of the WebDAV server",
-        "Introduced jython to Version Cue QE to improve automatic testing of Version Cue Server",
+        "Introduced Jython to Version Cue QE to improve automatic testing of Version Cue Server",
         "Introduced code coverage to improve the quality of the existing code base",
         "Developed tool to convert Eclipse project files into Ant build that were used by the automatic build process"
       ]
