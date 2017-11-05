@@ -17,3 +17,5 @@ https://resumefodder.com/ Create resumes in Word format. 4 default templates. Ea
 https://jsonresume.org/themes/
 
 
+## Themes
+https://github.com/fresh-standard/fresh-themes
