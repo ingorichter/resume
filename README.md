@@ -16,6 +16,10 @@ https://resumefodder.com/ Create resumes in Word format. 4 default templates. Ea
 /Users/irichter/Downloads/ResumeFodder
 https://jsonresume.org/themes/
 
+[https://resumefodder.com/generate.html](Online tool to generate the Word document)
+
+# Create a Resume
+Run `make` to generate a resume based on resume.json as a word document. This will create a new word document in the current folder. The templates is fixed. The expectation is that `ResumeFodder` is installed in $GOPATH/src/gitlab/steve-perkins/ResumeFodder. This is a manual step to get everything working.
 
 ## Themes
 https://github.com/fresh-standard/fresh-themes

@@ -1,0 +1,111 @@
+{
+  "company": "Adobe Systems Engineering GmbH, Germany",
+  "position": "Senior Computer Engineer, Project Lead",
+  "website": "https://www.adobe.de",
+  "startDate": "2009-01-01",
+  "endDate": "2010-09-01",
+  "summary": "Design and implementation of a distributed build and performance system to improve the overall product quality. Design and implementation of new features for the Adobe Service Infrastructure on Windows and OSX in C++ and ActionScript 3",
+  "highlights": [
+    "Designed and implemented a native authentication mechanism for the Adobe Service Infrastructure in C++ on Windows and OSX as a replacement for the Java solution to reduce memory consumption and startup time",
+    "Mentored and trained new team members",
+    "Added sRGB Support to the Adobe Service Infrastructure",
+    "Developed iPhone Application during Innovation Week"
+  ]
+},
+    {
+      "company": "Adobe Systems Engineering GmbH, Germany",
+      "position": "Engineering Manager",
+      "website": "https://www.adobe.de",
+      "startDate": "2004-01-01",
+      "endDate": "2008-12-31",
+      "summary": "Led a team of 4 developers to work on the presentation and communication layer of Version Cue Server",
+      "highlights": [
+        "Led the IPv6 transition of Version Cue Server",
+        "Introduced MDA to the team. In this context retrofitted the existing SOAP layer to be automatically generated from our existing UML model",
+        "Conducted technical evaluation to integrate Adobe Bridge in the Version Cue Server for thumbnail creation and XMP manipulation",
+        "Implemented a replacement for the current user management feature in Version Cue administration web-application with Adobe Flex Framework",
+        "Implemented LDAP functionality for VersionCue Server",
+        "Implemented SSL functionality for VersionCue Server",
+        "Developed tool to generate release notes for a particular build from the Perforce change list comments"
+      ]
+    },
+    {
+      "company": "Adobe Systems Engineering GmbH, Germany",
+      "position": "Engineering Manager",
+      "website": "https://www.adobe.de",
+      "startDate": "1999-01-01",
+      "endDate": "2003-12-31",
+      "summary": "Contributed to the Web Publishing System, GoLive Web Workgroup Server, and Version Cue Server",
+      "highlights": [
+        "Created and maintained automatic build system based on CruiseControl",
+        "Implemented the backup feature for Version Cue Server",
+        "Created Perl based testing framework to use for regression testing of the WebDAV server",
+        "Introduced Jython to Version Cue QE to improve automatic testing of Version Cue Server",
+        "Introduced code coverage to improve the quality of the existing code base",
+        "Developed tool to convert Eclipse project files into Ant build that were used by the automatic build process"
+      ]
+    },
+    {
+      "company": "Adobe Systems Engineering GmbH, Germany",
+      "position": "Engineering Manager",
+      "website": "https://www.adobe.de",
+      "startDate": "1999-01-01",
+      "endDate": "2003-12-31",
+      "summary": "Contributed to the Web Publishing System, GoLive Web Workgroup Server and Version Cue Server",
+      "highlights": [
+        "Created and maintained automatic build system based on CruiseControl",
+        "Implemented the backup feature for Version Cue Server",
+        "Created Perl based testing framework to use for regression testing of the WebDAV server",
+        "Introduced jython to Version Cue QE to improve automatic testing of Version Cue Server",
+        "Introduced code coverage to improve the quality of the existing code base",
+        "Developed tool to convert Eclipse project files into Ant build that were used by the automatic build process"
+      ]
+    },
+  {
+  "company": "USWeb/CKS",
+  "position": "Software Engineer",
+  "website": "https://www.usweb.com",
+  "startDate": "1997-10-01",
+  "endDate": "1998-12-31",
+  "summary": "Design and implementation of company-wide web-based employee phone book application",
+  "highlights": [
+    "Developed web-app with Java servlets and JDBC",
+    "Created expense report application with Microsoft ASP and SQL Server",
+    "Developed features for customer websites using Perl and ASP"
+  ]
+},
+{
+  "company": "Identification Systems DERMALOG GmbH",
+  "position": "Software Engineer",
+  "website": "https://www.dermalog.com",
+  "startDate": "1996-07-01",
+  "endDate": "1997-09-30",
+  "summary": "Developed parts of a new client/server application used to identify fingerprints",
+  "highlights": [
+    "Worked several weeks in the Kuala Lumpur office to support the Malaysian Immigration Department to customize the product for their needs",
+    "Developed Visual C++ application to scan paper based fingerprints"
+  ]
+},
+{
+  "company": "Management Data GmbH",
+  "position": "Software Engineer",
+  "startDate": "1995-08-01",
+  "endDate": "1996-06-30",
+  "summary": "Customized Audio software for radio stations",
+  "highlights": [
+    "Introduced ODBC to existing Audio Management Application. Replaced all proprietary code and embedded SQL Statements with new ODBC data access library",
+    "Created tool to extract tagged comments from C source files for documentation purpose (create rtf file)",
+    "Extended existing Audio Management Application with MFC and C++"
+  ]
+},
+{
+  "company": "Digital Collections GmbH",
+  "position": "Software Engineer",
+  "startDate": "1991-08-01",
+  "endDate": "1992-12-31",
+  "summary": "Taught QuarkXPress to graphic design team of major magazine publisher in Hamburg and Munich",
+  "highlights": [
+    "Created tools to process news streams for digital asset management system",
+    "Learnt Unix Programming on Next Station"
+  ]
+}

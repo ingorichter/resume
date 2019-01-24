@@ -3,10 +3,10 @@
     "name": "Ingo Richter",
     "label": "Sr. Software Engineer/Automation Expert",
     "picture": "https://s.gravatar.com/avatar/f50859dd9e9144590094ba3579a1d4ff?s=80",
-    "email": "ingo.richter@gmail.com",
+    "email": "ingo+hireme@ingo-richter.io",
     "phone": "424-261-5271",
     "website": "http://ingo-richter.io",
-    "summary": "Delivered high-quality products like Adobe Experience Design (XD), Adobe Photoshop Device Preview, Brackets, Edge Code, Flash Catalyst and Adobe Creative Suite. Successfully worked through 5 release cycles of the Adobe Creative Suite. Experienced in creating products from start to end.",
+    "summary": "I am an experienced agile software engineer with a proven track record of delivering innovative open source and closed source products on Windows, macOS, and iOS.",
     "location": {
       "address": "21296 Highland Drive",
       "postalCode": "CA 94552",
@@ -20,10 +20,15 @@
         "username": "ingorichter",
         "url": ""
       },
+        {
+            "network": "Blog",
+            "username": "Personal Blog",
+            "url": "https://www.ingo-richter.io"
+        },
       {
         "network": "LinkedIn",
         "username": "ingorichter",
-        "url": "www.linkedin.com/in/ingorichter"
+        "url": "https://www.linkedin.com/in/ingorichter"
       },
       {
         "network": "github.com",
@@ -37,14 +42,26 @@
       "company": "Adobe Systems Inc.",
       "position": "Sr. Computer Scientist/Web P&A",
       "website": "https://www.adobe.com",
-      "startDate": "2015-07-01",
+      "startDate": "2017-10-01",
+      "endDate": "Present",
+      "summary": "Working on Adobe XD. C/C++/cxx/Objective-C/JavaScript",
+      "highlights": [
+        "Designed and developed an In-App messaging system to drive customer growth",
+          "Designed and implemented deep linking for Adobe XD on Windows 10 and macOS.",
+          "Rebuild the welcome screen for Adobe XD with react native and typescript"
+      ]
+    },
+    {
+      "company": "Adobe Systems Inc.",
+      "position": "Sr. Computer Scientist/Web P&A",
+      "website": "https://www.adobe.com",
+      "startDate": "2017-10-01",
       "endDate": "Present",
       "summary": "Working on Sparkler aka Project Comet aka Adobe Experience Design (XD). C/C++/cxx/Objective-C/JavaScript",
       "highlights": [
-        "Build initial device preview feature for iOS",
-        "Contributed to On-Boarding web-app written in reactjs",
-        "Create On-Boarding features for OSX and Windows UWP",
-        "Support the DevOps team to develop a reliable CI/CD solution"
+        "Helping the On-Boarding Team on Adobe Experience Design (XD) to drive customer growth",
+        "Guided the Adobe Experience Design Team to implement the initial Device Preview for iOS",
+        "Provided input and support for the XD DevOps team to build a reliable CI/CD solution"
       ]
     },
     {
@@ -53,11 +70,11 @@
       "website": "https://www.adobe.com",
       "startDate": "2015-02-01",
       "endDate": "2015-06-30",
-      "summary": "Developed Adobe Device Preview with a small dedicated team. Adobe Device Preview consists of an iOS companion app and an extension for Photoshop",
+      "summary": "Worked with a small dedicated team to develop an innovative and high-quality Feature for Adobe Photoshop",
       "highlights": [
-        "Worked on the Photoshop iOS device communication. Reverse engineered the protocol used by Apple to communicate with iOS devices via USB. Implemented the protocol in Node.js",
-        "Developed the Photoshop plugin to enable iOS device communication",
-        "Designed and planned larger parts of the feature and worked with the Photoshop team to deliver a high-quality feature"
+        "Led the development of the communication protocol to enable Photoshop and mobile devices talk to each other",
+        "Contributed code to the iOS app (Xamarin) to preview design content from Photoshop",
+        "Developed and maintained the CI/CD automation system"
       ]
     },
     {
@@ -66,11 +83,13 @@
       "website": "https://www.adobe.com",
       "startDate": "2013-03-01",
       "endDate": "2015-01-31",
-      "summary": "Working with a small, agile team to create tools for modern web development",
+      "summary": "Worked with agile team on Brackets. Adobes first open source project",
       "highlights": [
-        "Implemented various features for Adobe Edge Code (Login for Adobe customer)",
-        "Helped to improve Adobe Brackets (code linting, Linux version, Extension Registry)",
-        "Automated the build process for Brackets and Edge Code on OSX, Windows, and Linux"
+        "Added missing features for Brackets Linux version (native menus, file system functions)",
+        "Developed Logfile Analysis for Adobe Brackets Extension Registry to measure Extensions popularity",
+        "Contributed to Code Linting infrastructure of Brackets",
+        "Implemented Creative Cloud Authentication for Adobe Edge Code",
+        "Designed and Maintained the automated build process for Brackets and Edge Code on OSX, Windows, and Linux"
       ]
     },
     {
@@ -79,9 +98,10 @@
       "website": "https://www.adobe.com",
       "startDate": "2012-05-01",
       "endDate": "2013-02-28",
-      "summary": "Worked for a small dedicated team to improve the performance of the ActionScript VM",
+      "summary": "Worked for a small dedicated team to improve the performance of the ActionScript VM. Tooling written in groovy",
       "highlights": [
-        "Implemented performance framework for new ActionScript VM"
+        "Led the development of performance framework for new ActionScript VM",
+        "Automated the test execution on iOS devices"
       ]
     },
     {
@@ -92,8 +112,8 @@
       "endDate": "2012-04-30",
       "summary": "Worked on the Flex Production Engineering Team",
       "highlights": [
-        "Working on internal tools to support the Engineering and Testing workflows",
-        "Focus on automating everything along the production process; this includes build systems, test systems and the release process"
+        "Developed tools to support the Engineering and Testing workflows",
+        "Focus on automating everything along the production process; this includes build systems, test systems, and the release process"
       ]
     },
     {
@@ -102,9 +122,10 @@
       "website": "https://www.adobe.com",
       "startDate": "2010-08-01",
       "endDate": "2011-04-30",
-      "summary": "Sharing my experiences with a new product team at Adobe. I took on a different role to support delivering high-quality software",
+      "summary": "Helped the Adobe Flash Catalyst Team to deliver the product on time and in high quality",
       "highlights": [
-        "Helped to automate the whole build and release process using different internal and external tools"
+        "Implemented the CI build process",
+        "Setup automated Installer build process and DVD media generation"
       ]
     },
     {
@@ -116,9 +137,7 @@
       "summary": "Design and implementation of a distributed build and performance system to improve the overall product quality. Design and implementation of new features for the Adobe Service Infrastructure on Windows and OSX in C++ and ActionScript 3",
       "highlights": [
         "Designed and implemented a native authentication mechanism for the Adobe Service Infrastructure in C++ on Windows and OSX as a replacement for the Java solution to reduce memory consumption and startup time",
-        "Added sRGB Support to the Adobe Service Infrastructure",
-        "Mentored and trained new team members",
-        "Developed iPhone Application during Innovation Week"
+        "Mentored and trained new team members"
       ]
     },
     {
@@ -127,31 +146,11 @@
       "website": "https://www.adobe.de",
       "startDate": "2004-01-01",
       "endDate": "2008-12-31",
-      "summary": "Led a team of 4 developers to work on the presentation and communication layer of Version Cue Server",
+      "summary": "Led a team of 4 developers to work on the presentation and communication layer of Version Cue Server using Java/JDK",
       "highlights": [
-        "Led the IPv6 transition of VersionCue Server",
+        "Led the IPv6 transition of Version Cue Server",
         "Introduced MDA to the team. In this context retrofitted the existing SOAP layer to be automatically generated from our existing UML model",
-        "Conducted technical evaluation to integrate Adobe Bridge in the Version Cue Server for thumbnail creation and XMP manipulation",
-        "Implemented a replacement for the current user management feature in Version Cue administration web-application with Adobe Flex Framework",
-        "Implemented LDAP functionality for Version Cue Server",
-        "Implemented SSL functionality for Version Cue Server",
-        "Developed tool to generate release notes for a particular build from the Perforce change list comments"
-      ]
-    },
-    {
-      "company": "Adobe Systems Engineering GmbH, Germany",
-      "position": "Engineering Manager",
-      "website": "https://www.adobe.de",
-      "startDate": "1999-01-01",
-      "endDate": "2003-12-31",
-      "summary": "Contributed to the Web Publishing System, GoLive Web Workgroup Server, and Version Cue Server",
-      "highlights": [
-        "Created and maintained automatic build system based on CruiseControl",
-        "Implemented the backup feature for Version Cue Server",
-        "Created Perl based testing framework to use for regression testing of the WebDAV server",
-        "Introduced Jython to Version Cue QE to improve automatic testing of Version Cue Server",
-        "Introduced code coverage to improve the quality of the existing code base",
-        "Developed tool to convert Eclipse project files into Ant build that were used by the automatic build process"
+        "Implemented LDAP functionality for VersionCue Server"
       ]
     },
     {
@@ -164,58 +163,7 @@
       "highlights": [
         "Created and maintained automatic build system based on CruiseControl",
         "Implemented the backup feature for Version Cue Server",
-        "Created Perl based testing framework to use for regression testing of the WebDAV server",
-        "Introduced jython to Version Cue QE to improve automatic testing of Version Cue Server",
-        "Introduced code coverage to improve the quality of the existing code base",
         "Developed tool to convert Eclipse project files into Ant build that were used by the automatic build process"
-      ]
-    },
-    {
-      "company": "USWeb/CKS",
-      "position": "Software Engineer",
-      "website": "https://www.usweb.com",
-      "startDate": "1997-10-01",
-      "endDate": "1998-12-31",
-      "summary": "Design and implementation of company-wide web-based employee phone book application",
-      "highlights": [
-        "Developed web-app with Java servlets and JDBC",
-        "Created expense report application with Microsoft ASP and SQL Server",
-        "Developed features for customer websites using Perl and ASP"
-      ]
-    },
-    {
-      "company": "Identification Systems DERMALOG GmbH",
-      "position": "Software Engineer",
-      "website": "https://www.dermalog.com",
-      "startDate": "1996-07-01",
-      "endDate": "1997-09-30",
-      "summary": "Developed parts of a new client/server application used to identify fingerprints",
-      "highlights": [
-        "Worked several weeks in the Kuala Lumpur office to support the Malaysian Immigration Department to customize the product for their needs",
-        "Developed Visual C++ application to scan paper based fingerprints"
-      ]
-    },
-    {
-      "company": "Management Data GmbH",
-      "position": "Software Engineer",
-      "startDate": "1995-08-01",
-      "endDate": "1996-06-30",
-      "summary": "Customized Audio software for radio stations",
-      "highlights": [
-        "Introduced ODBC to existing Audio Management Application. Replaced all proprietary code and embedded SQL Statements with new ODBC data access library",
-        "Created tool to extract tagged comments from C source files for documentation purpose (create rtf file)",
-        "Extended existing Audio Management Application with MFC and C++"
-      ]
-    },
-    {
-      "company": "Digital Collections GmbH",
-      "position": "Software Engineer",
-      "startDate": "1991-08-01",
-      "endDate": "1992-12-31",
-      "summary": "Taught QuarkXPress to graphic design team of major magazine publisher in Hamburg and Munich",
-      "highlights": [
-        "Created tools to process news streams for digital asset management system",
-        "Learnt Unix Programming on Next Station"
       ]
     }
   ],
@@ -289,7 +237,7 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript",
+        "JavaScript",
         "React"
       ]
     },
@@ -298,14 +246,14 @@
       "level": "Master",
       "keywords": [
         "JavaScript",
+        "Typescript",
+        "webpack",
         "React Native",
         "Node.js",
-        "Java",
+        "Java/JDK",
         "C/C++",
         "C++/CXX",
-        "C#",
         "Objective-C",
-        "Groovy",
         "Python",
         "X-Platform development",
         "Windows 10 UWP"
@@ -343,9 +291,8 @@
       "name": "VCS",
       "level": "Master",
       "keywords": [
-        "git",
-        "subversion",
-        "perforce"
+        "Git",
+        "Perforce"
       ]
     }
   ],
@@ -357,10 +304,6 @@
     {
       "language": "German",
       "fluency": "Native Speaker"
-    },
-    {
-      "language": "French",
-      "fluency": "Elementary proficiency"
     }
   ],
   "interests": [
@@ -380,7 +323,9 @@
     {
       "name": "Technology",
       "keywords": [
-        "Linux"
+        "Linux",
+        "ML",
+        "3d Printing"
       ]
     }
   ],
@@ -391,13 +336,16 @@
       "highlights": [
         "Improved code linting infrastructure",
         "Improved build and test infrastructure",
-        "IMS integration",
-        "Extension Registry statistics"
+        "IMS integration (Authentication Infrastructure)",
+        "Brackets Extension Registry statistics"
       ],
       "keywords": [
         "Webdev",
         "CEF",
-        "Javascript",
+          "JavaScript",
+          "Typescript",
+          "webpack",
+          "reactjs",
         "X-Platform development",
         "Windows",
         "OSX",
@@ -416,7 +364,7 @@
   ],
   "meta": {
     "canonical": "https://github.com/ingorichter/resume/resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2017-01-29T23:55:00"
+    "version": "v1.0.2",
+    "lastModified": "2019-01-23T22:55:00"
   }
 }
